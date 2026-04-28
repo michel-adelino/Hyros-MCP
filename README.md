@@ -7,8 +7,6 @@ MCP server for the [Hyros](https://hyros.com) advertising attribution API. Gives
 
 **38 tools** covering leads, sales, calls, subscriptions, attribution reports, ad management, and smart analytics.
 
-Built by [Carlos Aragon](https://carlosaragon.online).
-
 ## Installation
 
 ### Step 1 — Install the package
@@ -176,7 +174,7 @@ Once connected, you can ask things like:
 ## Development
 
 ```bash
-git clone https://github.com/CachoMX/Hyros-MCP.git
+git clone <repository-url>
 cd Hyros-MCP
 npm install
 cp .env.example .env    # Add your API key
@@ -187,4 +185,4 @@ npm test                # Run tests
 
 ## License
 
-MIT - [Carlos Aragon](https://carlosaragon.online)
+MIT — see [LICENSE](LICENSE)
